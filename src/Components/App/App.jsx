@@ -1,17 +1,22 @@
 import { Download, Star } from 'lucide-react';
 import React from 'react';
-import { NavLink} from 'react-router-dom';
+import { Link, NavLink} from 'react-router-dom';
+import AppDetails from '../App_Details/AppDetails';
 
 const App = ({data}) => {
     console.log(data)
-    const{companyName,description,image,downloads,ratingAvg}=data
+    const{id,companyName,description,image,downloads,ratingAvg}=data
     
    
 
     return (
         
-            <div className='shadow-2xl bg-white p-4 my-16'>
-            <div className='flex flex-col '>
+           <Link to={`/appdetails/${id}`} className='flex flex-1'>
+             <div className='shadow-2xl bg-white p-4 my-16'>
+            <div className='flex flex-col '
+                
+            
+            >
                 <img src={image} className='h-[300px] flex-1 px-4 p-2'></img>
             </div>
             <div className='my-5'>
@@ -23,6 +28,7 @@ const App = ({data}) => {
             </div>
             
         </div>
+           </Link>
         
         
     );

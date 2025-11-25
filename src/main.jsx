@@ -6,6 +6,7 @@ import { RouterProvider } from "react-router-dom";
 import Root from './Components/Root.jsx';
 import Home from './Components/Home/Home.jsx';
 import AllApps from './Components/AllApss/AllApps.jsx';
+import AppDetails from './Components/App_Details/AppDetails.jsx';
 
 const router = createBrowserRouter([
   {
@@ -15,14 +16,19 @@ const router = createBrowserRouter([
   children:[
     {
       index:true,
-      loader:async()=>(await fetch('banner.json')).json(),
+      loader:async()=>(await fetch('/banner.json')).json(),
       Component:Home
       
     },
     {
       path:'/allapps',
-      loader:async()=>(await fetch('installed.json')).json(),
+      loader:async()=>(await fetch('/installed.json')).json(),
       Component:AllApps
+    },
+    {
+      path:'/appdetails/:id',
+      loader:async()=>(await fetch('/installed.json')).json(),
+      Component:AppDetails
     }
 
   ]

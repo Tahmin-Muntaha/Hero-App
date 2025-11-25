@@ -1,0 +1,543 @@
+
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/wUZp2gNvX3mLkmzhq2FyTVSwRdtfWC-Fcx0lt8Xo1TxufvThvbAxgty7WpfARX6tLMxG",
+    "title": "TaskMaster Pro",
+    "companyName": "Productivity Inc.",
+    "id": 1,
+    "description": "A powerful task management app to boost your productivity.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 50000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 620 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/XbyPYUvaiayhseYJkxprcSRwnRCm3wtlEQq9SW7eQ-aCaYCbqi3NSweLJgzK_i1u2EY",
+    "title": "FitTrack",
+    "companyName": "HealthTech Solutions",
+    "id": 2,
+    "description": "Track your workouts, calories, and progress easily.",
+    "size": 60,
+    "reviews": 950,
+    "ratingAvg": 4.2,
+    "downloads": 30000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 520 }
+    ]
+  },
+  {
+    "image": "https://icon-library.com/images/photo-editor-icon/photo-editor-icon-20.jpg",
+    "title": "PhotoEdit X",
+    "companyName": "Creative Labs",
+    "id": 3,
+    "description": "Edit your photos like a pro with advanced tools.",
+    "size": 75,
+    "reviews": 2200,
+    "ratingAvg": 4.7,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 1450 }
+    ]
+  },
+  {
+    "image": "https://ondokuzon.com/wp-content/uploads/2024/11/learn-lang-app.jpg",
+    "title": "LearnLang",
+    "companyName": "EduTech World",
+    "id": 4,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 55,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 40000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjg5r-9VfuBRViPo7Ocb9mdWREG6TWEWewA&s",
+    "title": "FinanceTracker",
+    "companyName": "MoneyMatters Ltd.",
+    "id": 5,
+    "description": "Manage your personal finances and budgeting easily.",
+    "size": 50,
+    "reviews": 1400,
+    "ratingAvg": 4.4,
+    "downloads": 70000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 725 }
+    ]
+  },
+  {
+    "image": "https://thumbs.dreamstime.com/b/cartoon-boy-headphones-listening-to-music-dancing-happily-musical-notes-around-him-cheerful-joyfully-his-409640008.jpg",
+    "title": "MusicFlow",
+    "companyName": "AudioTech",
+    "id": 6,
+    "description": "Stream your favorite music anytime, anywhere.",
+    "size": 80,
+    "reviews": 3100,
+    "ratingAvg": 4.6,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1770 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdcdD9xfKNPBOKldErNFfsrCEMMY5aG_n9Lw&s",
+    "title": "WeatherNow",
+    "companyName": "Climate Solutions",
+    "id": 7,
+    "description": "Get accurate and real-time weather forecasts.",
+    "size": 35,
+    "reviews": 600,
+    "ratingAvg": 4.1,
+    "downloads": 25000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 285 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/premium-vector/food-blogger-screen-concept-man-with-plate-vegetables-salad-recipe-master-class-cook-culinary-school-tutorial-young-guy-kitchen-cartoon-flat-vector-illustration_1002658-80.jpg",
+    "title": "RecipeMaster",
+    "companyName": "Foodies Co.",
+    "id": 8,
+    "description": "Discover and share thousands of delicious recipes.",
+    "size": 65,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 1035 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSGre_UZ6-8YvG7k4ZsisE9SCebrTrTC9EbA&s",
+    "title": "HealthPal",
+    "companyName": "Wellness Apps",
+    "id": 9,
+    "description": "Track your health metrics and daily habits.",
+    "size": 55,
+    "reviews": 900,
+    "ratingAvg": 4.3,
+    "downloads": 48000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 435 }
+    ]
+  },
+  {
+    "image": "https://media.licdn.com/dms/image/v2/C4D1BAQH4csCEpq2OJQ/company-background_10000/company-background_10000/0/1629585025504/retailtech2020_cover?e=2147483647&v=beta&t=a5rGX72YkOo1cAxNhoda4FiJ6G6sWQYzShha_HPayAE",
+    "title": "ShopEasy",
+    "companyName": "RetailTech",
+    "id": 10,
+    "description": "A smart shopping assistant for discounts and offers.",
+    "size": 70,
+    "reviews": 1500,
+    "ratingAvg": 4.4,
+    "downloads": 75000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 795 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6nbD9iOIdMDMs4r9EBzYxVqlI5yLhzox2zA&s",
+    "title": "ZenSpace",
+    "companyName": "Mindful Labs",
+    "id": 11,
+    "description": "Guided meditation and mindfulness exercises.",
+    "size": 60,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 62000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 605 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUMKT7Hgg83q_-d4elIngg2ptjYa_8a7JnXQ&s",
+    "title": "TravelMate",
+    "companyName": "Wanderlust Co.",
+    "id": 12,
+    "description": "Plan trips and discover exciting destinations.",
+    "size": 80,
+    "reviews": 1400,
+    "ratingAvg": 4.6,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVf7dLyikjDQI0bsUpUydbeIo8Q3a7zJFYug&s",
+    "title": "CookBook",
+    "companyName": "Foodies Co.",
+    "id": 13,
+    "description": "Save and explore thousands of recipes.",
+    "size": 65,
+    "reviews": 1300,
+    "ratingAvg": 4.5,
+    "downloads": 87000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 645 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKLL4ASCQhWCBW7IrewzmsQwqUjR9e5HR7Pg&s",
+    "title": "FunGames",
+    "companyName": "GameTech",
+    "id": 14,
+    "description": "Play exciting games and compete with friends.",
+    "size": 90,
+    "reviews": 2200,
+    "ratingAvg": 4.7,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1210 }
+    ]
+  },
+  {
+    "image": "https://www.shutterstock.com/image-vector/quick-notes-icon-glyph-vector-260nw-2637746107.jpg",
+    "title": "QuickNotes",
+    "companyName": "Productivity Hub",
+    "id": 15,
+    "description": "Take notes and organize tasks efficiently.",
+    "size": 50,
+    "reviews": 950,
+    "ratingAvg": 4.4,
+    "downloads": 53000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 435 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl0bAMIfvGMoRAdh1Rs0wcgK89A877VsCkpg&s",
+    "title": "StudyHelper",
+    "companyName": "EduTech World",
+    "id": 16,
+    "description": "Organize your study schedule and notes.",
+    "size": 60,
+    "reviews": 1050,
+    "ratingAvg": 4.5,
+    "downloads": 60000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7EbhzJgO_iozqvtSEejqOy1F_r-dMgEN5qQ&s",
+    "title": "SnapPic",
+    "companyName": "Creative Labs",
+    "id": 17,
+    "description": "Capture and edit photos with ease.",
+    "size": 75,
+    "reviews": 1800,
+    "ratingAvg": 4.6,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 975 }
+    ]
+  },
+  {
+    "image": "https://media.licdn.com/dms/image/v2/C560BAQFN9Z7OUYAboA/company-logo_200_200/company-logo_200_200/0/1630665396433?e=2147483647&v=beta&t=KGU-CorslcsDm1LLcbZkljtYLZkKYIZ8v9GKrn9j4Tw",
+    "title": "ClimateCheck",
+    "companyName": "Climate Solutions",
+    "id": 18,
+    "description": "Real-time weather updates and forecasts.",
+    "size": 40,
+    "reviews": 700,
+    "ratingAvg": 4.2,
+    "downloads": 35000,
+    "ratings": [
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 370 }
+    ]
+  },
+  {
+    "image": "https://yt3.googleusercontent.com/ibKYgpdwgQbp3aFUp8gELAk0LEUXcd2fCJ3LiPBKexaGnBxXZFli_WWP9YQmGnAqofkRUUbykg=s900-c-k-c0x00ffffff-no-rj",
+    "title": "BeatStream",
+    "companyName": "AudioTech",
+    "id": 19,
+    "description": "Stream your favorite music and playlists.",
+    "size": 80,
+    "reviews": 3100,
+    "ratingAvg": 4.6,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1770 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjMSfV8G9-1qlEfwZDNq1-zI8V5fzPXqbdSQ&s",
+    "title": "MoveIt",
+    "companyName": "HealthTech Solutions",
+    "id": 20,
+    "description": "Track steps, workouts, and health metrics.",
+    "size": 60,
+    "reviews": 950,
+    "ratingAvg": 4.3,
+    "downloads": 48000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 485 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9T-oomIQPq4MHlJuV3XNNnOKixa35iksHuw&s",
+    "title": "MoneyManager",
+    "companyName": "MoneyMatters Ltd.",
+    "id": 21,
+    "description": "Manage expenses and income efficiently.",
+    "size": 50,
+    "reviews": 1400,
+    "ratingAvg": 4.4,
+    "downloads": 70000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 35 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 725 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr60yS4gLdR5mnRoRui2PHiDUeyc-aqsNWHw&s",
+    "title": "Polyglot",
+    "companyName": "EduTech World",
+    "id": 22,
+    "description": "Learn multiple languages quickly and easily.",
+    "size": 55,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 40000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 405 }
+    ]
+  },
+  {
+    "image": "https://img.freepik.com/free-vector/travel-itinerary-design-template_23-2149648602.jpg?w=740&q=80",
+    "title": "TripPlanner",
+    "companyName": "Wanderlust Co.",
+    "id": 23,
+    "description": "Plan your trips and discover new places.",
+    "size": 80,
+    "reviews": 1400,
+    "ratingAvg": 4.6,
+    "downloads": 95000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 630 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/v78vhQD-gdcXNJAVR8g0Yqv9uHsc011fhz_jt67NcqdKHkICErrR92b7Vpj88-gyl4YK=w240-h480-rw",
+    "title": "CalmMind",
+    "companyName": "Mindful Labs",
+    "id": 24,
+    "description": "Meditation and mindfulness exercises.",
+    "size": 60,
+    "reviews": 1100,
+    "ratingAvg": 4.5,
+    "downloads": 62000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 605 }
+    ]
+  },
+  {
+    "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2020/06/new-google-photos-logo.jpg",
+    "title": "PicGallery",
+    "companyName": "Creative Labs",
+    "id": 25,
+    "description": "Organize and view your photos beautifully.",
+    "size": 75,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 1035 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/AOnGsMNSOB4YOA48JzBAvnlTtMimxo12eVPHAu-pF8S2yeUvqLCIKUu1CXrWEa0dIA",
+    "title": "QuickShop",
+    "companyName": "RetailTech",
+    "id": 26,
+    "description": "Manage shopping lists and find deals quickly.",
+    "size": 70,
+    "reviews": 1500,
+    "ratingAvg": 4.4,
+    "downloads": 75000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 795 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRco_9K3VOzkjeliGJbygZmR_k2BPw1SKTSrw&s",
+    "title": "GameHub",
+    "companyName": "GameTech",
+    "id": 27,
+    "description": "Play casual and multiplayer games online.",
+    "size": 90,
+    "reviews": 2200,
+    "ratingAvg": 4.7,
+    "downloads": 140000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1210 }
+    ]
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51dRY0T7+NL._AC_UF1000,1000_QL80_.jpg",
+    "title": "StudyPlanner",
+    "companyName": "EduTech World",
+    "id": 28,
+    "description": "Plan your study sessions and track progress.",
+    "size": 60,
+    "reviews": 1050,
+    "ratingAvg": 4.5,
+    "downloads": 60000,
+    "ratings": [
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 455 }
+    ]
+  },
+  {
+    "image": "https://mma.prnewswire.com/media/2333137/Iconic_Hearts_Noteit.jpg?p=twitter",
+    "title": "NoteIt",
+    "companyName": "Productivity Hub",
+    "id": 29,
+    "description": "Capture quick notes and stay organized.",
+    "size": 50,
+    "reviews": 950,
+    "ratingAvg": 4.4,
+    "downloads": 53000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 435 }
+    ]
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNx4OiDl6yjSG3v0tgkYuL1dIGqRE1ozEMBQ&s",
+    "title": "FoodiesHub",
+    "companyName": "Foodies Co.",
+    "id": 30,
+    "description": "Explore and share a wide variety of recipes.",
+    "size": 65,
+    "reviews": 1800,
+    "ratingAvg": 4.5,
+    "downloads": 90000,
+    "ratings": [
+      { "name": "1 star", "count": 35 },
+      { "name": "2 star", "count": 30 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 1035 }
+    ]
+  }
+]

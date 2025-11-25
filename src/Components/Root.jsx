@@ -3,6 +3,7 @@ import Navbar from './Header/Navbar';
 import { Outlet } from 'react-router-dom';
 import Container from './Container/Container';
 import Footer from './Footer/Footer';
+import { Home } from 'lucide-react';
 
 
 const Root = () => {
@@ -10,7 +11,10 @@ const Root = () => {
         <div>
             <Container>
                 <Navbar></Navbar>
-                <Outlet></Outlet>
+                
+                <Outlet>
+            
+                </Outlet>
                 <Footer></Footer>
             </Container>
             

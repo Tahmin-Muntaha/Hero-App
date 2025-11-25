@@ -19,7 +19,7 @@ const Navbar = () => {
                     open &&
                     <div className={`absolute flex flex-col bg-amber-50 text-black p-5 z-10 ${!open?"-top-16":"top-12"}`}>
                         <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Home</NavLink>
-                        <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Apps</NavLink>
+                        <NavLink to={"/allapps"} className={({isActive})=>isActive?"text-purple-400":"text-black"}>Apps</NavLink>
                  <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Installation</NavLink>
                          
                         
@@ -30,7 +30,7 @@ const Navbar = () => {
             </div>
             <div className='hidden md:flex gap-4 items-center'>
                  <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Home</NavLink>
-                 <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Apps</NavLink>
+                 <NavLink to={"/allapps"} className={({isActive})=>isActive?"text-purple-400":"text-black"}>Apps</NavLink>
                  <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Installation</NavLink>
                 
                

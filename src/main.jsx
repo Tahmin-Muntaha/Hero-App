@@ -53,33 +53,3 @@ createRoot(document.getElementById('root')).render(
 
 
 
-// Search and States
-
-// Implement live search functionality
-// filters apps by title as the user types.
-// Search will be case-insensitive
-// If no app matches, display a “No App Found” message.
-
-
-
-
-
-
-// Show a loading animation during: Challenge Part
-
-// 
-// Search operation.
-// Show a Relevant Not Found message app not found in app details section.
-
-// // Ensure that reloading any route after deployment does not cause an erro
-
-
-
-
-
-
-
-
-
-// Show a loading animation durin
-// Search operation

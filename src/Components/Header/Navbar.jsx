@@ -1,6 +1,6 @@
 import { Github, Menu } from 'lucide-react';
 import React, { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import logo from '../../assets/logo.png'
 const Navbar = () => {
     
@@ -13,14 +13,16 @@ const Navbar = () => {
                 setOpen(!open)
             }}
                 ></Menu>
-                <img src={logo} className='h-[30px]'></img>
+                <Link to='/'>
+                <img  src={logo} className='h-[30px]'></img>
+                </Link>
                 <h3 className=' font-bold'>HERO.IO</h3>
                 {
                     open &&
                     <div className={`absolute flex flex-col bg-amber-50 text-black p-5 z-10 ${!open?"-top-16":"top-12"}`}>
                         <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Home</NavLink>
                         <NavLink to={"/allapps"} className={({isActive})=>isActive?"text-purple-400":"text-black"}>Apps</NavLink>
-                 <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Installation</NavLink>
+                 <NavLink to="/installed" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Installation</NavLink>
                          
                         
                         
@@ -31,7 +33,7 @@ const Navbar = () => {
             <div className='hidden md:flex gap-4 items-center'>
                  <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Home</NavLink>
                  <NavLink to={"/allapps"} className={({isActive})=>isActive?"text-purple-400":"text-black"}>Apps</NavLink>
-                 <NavLink to="/" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Installation</NavLink>
+                 <NavLink to="/installed" className={({isActive})=>isActive?"text-purple-400":"text-black"}>Installation</NavLink>
                 
                
             </div>

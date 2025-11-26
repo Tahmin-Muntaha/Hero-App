@@ -13,6 +13,7 @@ const AllApps = () => {
       </div>
         )
     }
+    
 
     return (
         <div>

@@ -13,6 +13,7 @@ const Home = () => {
       </div>
         )
     }
+    
     console.log(bannerData)
     return (
         <div>

@@ -3,8 +3,11 @@ import { Download, Star, StarHalf, Stars, ThumbsUp } from 'lucide-react';
 import React from 'react';
 import { useState } from 'react';
 import { useLoaderData, useParams } from 'react-router-dom';
+import { addLocal } from '../Local/LocalAdd';
+import { ToastContainer, toast } from 'react-toastify';
 
 const AppDetails = () => {
+    const notify = () => toast("Installed!");
     const [ins,setIns]=useState('Install')
     const {id}=useParams()
     const allData=useLoaderData()
@@ -13,6 +16,7 @@ const AppDetails = () => {
     
     return (
         <>
+        <ToastContainer position="top-right" autoClose={2000} />
         <div className='p-4 md:grid grid-cols-2  justify-center items-center'>
             <div><img src={app.image} className="w-[400px]"></img ></div>
             <div>
@@ -39,7 +43,8 @@ const AppDetails = () => {
                     if(ins==='Install'){
                         setIns('Installed')
                     }
-                    console.log('gdchjskx')
+                    addLocal(parseInt(id))
+                    notify()
                 }} className='bg-green-400 px-8 py-4 rounded-2xl text-white font-bold'>{ins}</button>
             </div>
         </div>
